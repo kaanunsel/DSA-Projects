@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "250 Project 2_e8011f57",
+            "args": [
+                "in.txt",
+                "out.txt"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "250 Project",
+            "args": [
+                "in.txt",
+                "out.txt"
+            ]
+        }
+    ]
+}

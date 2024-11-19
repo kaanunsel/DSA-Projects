@@ -1,0 +1,16 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [],
+
+    "java.configuration.runtimes": [
+    {
+        "name": "JavaSE-21",
+        "path": "/Users/kaanunsel/Library/Java/JavaVirtualMachines/corretto-21.0.4/Contents/Home",
+        "default": true
+    }
+]
+}
+
