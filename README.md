@@ -1,7 +1,7 @@
 # Data Structures and Algorithms (DSA) Projects
 
 Welcome to my **Data Structures and Algorithms (DSA)** repository! 🎯  
-This repository contains the projects and assignments I have completed as part of my **Cmpe 250: Data Structures and Algorithms** course at Boğaziçi University.
+This repository contains the projects I have completed as part of my **Cmpe 250: Data Structures and Algorithms** course at Boğaziçi University.
 
 ## 📂 Repository Structure
 
