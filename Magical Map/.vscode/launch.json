@@ -1,0 +1,30 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "250 Project 3_e8011f58",
+            "args": [
+                "nodes.txt",
+                "edges.txt",
+                "objectives.txt",
+                "out.txt"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "250 Project 3",
+            "args": [
+                "nodes.txt",
+                "edges.txt",
+                "objectives.txt",
+                "out.txt"
+            ]
+        }
+    ]
+}
