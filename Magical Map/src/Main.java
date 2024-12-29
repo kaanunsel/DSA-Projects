@@ -12,10 +12,10 @@ public class Main {
     public static void main(String[] args) throws IOException, FileNotFoundException {
         
         // Input and output file paths received as command-line arguments
-        String input_nodes = args[0];
-        String input_edges = args[1];
-        String input_objectives = args[2];
-        String output_file = args[3];
+        String input_nodes = "Magical Map/test_cases/large/1st-400-400/test-nodes-400-400.txt";
+        String input_edges = "Magical Map/test_cases/large/1st-400-400/test-edges-400-400.txt";
+        String input_objectives = "Magical Map/test_cases/large/1st-400-400/test-obj-400-400.txt";
+        String output_file = "Magical Map/output.txt";
 
         // Basic variables
         int x_size;  // Grid width

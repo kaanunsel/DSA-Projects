@@ -9,8 +9,8 @@ import java.util.ArrayList;
 public class Main {
     public static void main(String[] args) {
         // Input and output file names are provided as command-line arguments
-        String inputFile = args[0];
-        String outputFile = args[1];
+        String inputFile = "Instragram Feed Simulator/input/type4_small.txt";
+        String outputFile = "Instragram Feed Simulator/output.txt";
 
         // Centralized manager to handle user, post, and feed operations
         FeedManagement feedManagement = new FeedManagement();
