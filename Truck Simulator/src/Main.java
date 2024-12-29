@@ -9,8 +9,8 @@ public class Main {
     public static void main(String[] args) {
 
         // Input and output files, passed as arguments
-        File inFile = new File(args[0]);
-        File outFile = new File(args[1]);
+        File inFile = new File("Truck Simulator/test cases/inputs/type1-large.txt");
+        File outFile = new File("output.txt");
         PrintStream outstream;
 
         // Attempt to open the output file for writing
