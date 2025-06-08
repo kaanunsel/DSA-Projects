@@ -3,13 +3,13 @@
 This is my **Data Structures and Algorithms (DSA)** repository.  
 This repository contains the projects I have completed as part of my courses about data structures and algorithms at Boğaziçi University.
 
-## 📂 Repository Structure
+## Repository Structure
 
 Each project is organized into its own folder with:
 - **Source Code**: The main implementation files.
 - **Input/Output Examples**: Sample test cases and outputs (where applicable).
 
-## 📁 Projects
+## Projects
 
 ### 1. Ant Colony Optimization
 - **Description**: Implementation of the Ant Colony Optimization algorithm.
@@ -45,5 +45,3 @@ Each project is organized into its own folder with:
 - **Algorithms and Data Structures**: Dijkstra's Algorithm, Graphs.
 - **Path**: `DSA-Projects/Navigation App for Turkey`
 - **Key Files**: `src/NavigationApp.java`
-
-Feel free to explore each project folder for more details and the complete source code.
